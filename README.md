@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning hmtl and CSS
 - 😄 Pronouns: she/her
 
-```md
+- ```md
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdiastata&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_blue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdiastata&hide_progress=true86400&theme=shadow_blue)
 <div>
