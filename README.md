@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thaina Dias 🇧🇷
+- 👋 Hi, I’m Thaina Mathias 🇧🇷
 - 👀 I’m interested in be a programmer 
 - 🌱 I’m currently learning hmtl and CSS
 - 😄 Pronouns: she/her
